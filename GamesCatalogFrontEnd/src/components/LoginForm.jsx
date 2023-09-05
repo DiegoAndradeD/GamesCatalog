@@ -65,7 +65,7 @@ const LoginForm = () => {
         <div className="col-md-6">
           <div className="card">
             <div className="card-body">
-              <h2 className="card-title">User Registration</h2>
+              <h2 className="card-title">User Login</h2>
               <form onSubmit={handleFormSubmit}>
                 <div className="mb-3">
                   <label htmlFor="email" className="form-label">
